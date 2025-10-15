@@ -208,10 +208,6 @@ Das saubere MVC-Design ermöglicht einfache Erweiterungen:
 4. Branch pushen (`git push origin feature/AmazingFeature`)
 5. Pull Request öffnen
 
-## 📝 Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE` Datei für Details.
-
 ## 👨‍💻 Autor
 
 Erstellt mit ❤️ und Python
