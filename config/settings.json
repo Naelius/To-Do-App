@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "Meine To-Do-Liste",
+    "version": "1.0",
+    "theme": "Hell",
+    "available_themes": ["Hell", "Dunkel", "Blau", "Grün", "Lila", "Orange", "Rainbow", "Hacker", "Retro", "Cyborg", "Viking", "Fallout", "Biohazard", "Cyberpunk", "Steampunk", "Vampire", "Alien", "Wasteland", "Neon"]
+  },
+  "data": {
+    "file_path": "../data/tasks.json",
+    "auto_save": true,
+    "backup_enabled": false
+  },
+  "ui": {
+    "window_width": 600,
+    "window_height": 500,
+    "priorities": ["Niedrig", "Normal", "Hoch"],
+    "filters": ["Alle", "Offen", "Erledigt", "Hoch", "Normal", "Niedrig"]
+  }
+}

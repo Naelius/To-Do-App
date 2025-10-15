@@ -1,0 +1,29 @@
+[
+  {
+    "text": "Samu triggern",
+    "completed": true,
+    "priority": "Hoch",
+    "due_date": "2025-10-15",
+    "description": "AUSRASTEN MUSS ER !",
+    "category": "Privat",
+    "created_date": "2025-10-15 12:57:12"
+  },
+  {
+    "text": "Samu erklären wie die Welt funktioniert",
+    "completed": false,
+    "priority": "Niedrig",
+    "due_date": "2025-10-15",
+    "description": "Die Welt ist ein schöner Ort, Samu!",
+    "category": "Allgemein",
+    "created_date": "2025-10-15 13:32:07"
+  },
+  {
+    "text": "Samu einen Keks schenken",
+    "completed": false,
+    "priority": "Normal",
+    "due_date": "2027-10-13",
+    "description": "Son alten, steinharten Keks.",
+    "category": "Hobby",
+    "created_date": "2025-10-15 13:39:01"
+  }
+]
